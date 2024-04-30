@@ -1,0 +1,16 @@
+.layout{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px;
+    color: rgb(233, 220, 220);
+    background-color: rgba(0, 0, 0, 0.534);
+
+}
+.links{
+    font-size: 20px;
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+}
